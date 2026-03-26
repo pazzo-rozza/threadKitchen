@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "threadKitchen", "threadKitchen\threadKitchen.csproj", "{1169D5CA-940A-4E17-87AD-75C985C80549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1169D5CA-940A-4E17-87AD-75C985C80549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1169D5CA-940A-4E17-87AD-75C985C80549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1169D5CA-940A-4E17-87AD-75C985C80549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1169D5CA-940A-4E17-87AD-75C985C80549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58595FF8-E6A7-4547-B6E3-5756073D8EB5}
+	EndGlobalSection
+EndGlobal

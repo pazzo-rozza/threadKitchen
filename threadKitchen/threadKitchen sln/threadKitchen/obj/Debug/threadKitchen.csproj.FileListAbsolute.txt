@@ -1,0 +1,10 @@
+C:\Users\admin\OneDrive\Desktop\threadKitchen\threadKitchen sln\threadKitchen\obj\Debug\threadKitchen.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\threadKitchen\threadKitchen sln\threadKitchen\obj\Debug\ThreadKitchen.ThreadKitchen.resources
+C:\Users\admin\OneDrive\Desktop\threadKitchen\threadKitchen sln\threadKitchen\obj\Debug\threadKitchen.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\threadKitchen\threadKitchen sln\threadKitchen\obj\Debug\threadKitchen.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\threadKitchen\threadKitchen sln\threadKitchen\obj\Debug\threadKitchen.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\threadKitchen\threadKitchen sln\threadKitchen\bin\Debug\threadKitchen.exe.config
+C:\Users\admin\OneDrive\Desktop\threadKitchen\threadKitchen sln\threadKitchen\bin\Debug\threadKitchen.exe
+C:\Users\admin\OneDrive\Desktop\threadKitchen\threadKitchen sln\threadKitchen\bin\Debug\threadKitchen.pdb
+C:\Users\admin\OneDrive\Desktop\threadKitchen\threadKitchen sln\threadKitchen\obj\Debug\threadKitchen.exe
+C:\Users\admin\OneDrive\Desktop\threadKitchen\threadKitchen sln\threadKitchen\obj\Debug\threadKitchen.pdb
